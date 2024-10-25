@@ -1,0 +1,39 @@
+[
+    {
+        "name":"AU Tech",
+        "path":"/companies/c1.png",
+        "id":1
+    },
+    {
+        "name":"AU Tech",
+        "path":"/companies/c2.png",
+        "id":2
+    }, {
+        "name":"AU Tech",
+        "path":"/companies/c3.png",
+        "id":3
+    }, {
+        "name":"AU Tech",
+        "path":"/companies/c4.png",
+        "id":4
+    }, {
+        "name":"AU Tech",
+        "path":"/companies/c5.jpeg",
+        "id":5
+    },
+    {
+        "name":"AU Tech",
+        "path":"/companies/c6.png",
+        "id":6
+    },
+    {
+        "name":"AU Tech",
+        "path":"/companies/c7.png",
+        "id":7
+    },
+    {
+        "name":"AU Tech",
+        "path":"/companies/c8.jpeg",
+        "id":8
+    }
+]

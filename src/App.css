@@ -1,0 +1,29 @@
+
+
+
+.back{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: 50px 50px;
+    pointer-events: none ;
+    z-index: 1;
+    /*background: linear-gradient(to right,
+     rgba(127, 255, 212, 0.605)1px,
+     transparent 1px,
+     ),
+     linear-gradient(to bottom,
+     rgba(127, 255, 212, 0.605)1px,
+     transparent 1px,);*/
+}
+/*.back::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle,transparent,rgba(0, 0, 0, 0.899));
+}*/
